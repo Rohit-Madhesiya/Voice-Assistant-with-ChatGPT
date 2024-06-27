@@ -1,0 +1,1 @@
+ASSISTANT_NAME = "Voice Assistant with ChatGPT"
